@@ -1,0 +1,19 @@
+.footer {
+    background-color: #6278F7;
+    color: #FFF;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .social img {
+    display: inline-block;
+    margin-right: 32px;
+    height: 20px;
+    padding: 10px;
+}
+
+.footer .social img:last-child {
+    margin-right: 0;
+}
