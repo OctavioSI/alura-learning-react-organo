@@ -11,12 +11,12 @@ const Footer = () => {
     <section>
       <div className='footer'>
         <div className='social'>
-          <img src={fbImg} />
-          <img src={twImg} />
-          <img src={igImg} />
+          <img src={fbImg} alt='Facebook' />
+          <img src={twImg} alt='Twitter' />
+          <img src={igImg} alt= 'Instagram' />
         </div>
         <div className='logo'>
-          <img src={logoImg} />
+          <img src={logoImg} alt='organo'/>
         </div>
         <div className='by'>
           Desenvolvido por Alura.
